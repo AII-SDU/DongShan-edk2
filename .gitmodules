@@ -1,15 +1,15 @@
 [submodule "edk2"]
 	path = edk2
 	url = https://github.com/AII-SDU/edk2.git
-	branch = dongshan-edk2
+	branch = edk2-stable202611
 [submodule "edk2-platforms"]
 	path = edk2-platforms
 	url = https://github.com/AII-SDU/edk2-platforms.git
-	branch = dongshan-edk2
+	branch = edk2-stable202611
 [submodule "edk2-non-osi"]
 	path = edk2-non-osi
 	url = https://github.com/AII-SDU/edk2-non-osi.git
-	branch = dongshan-edk2
+	branch = edk2-stable202611
 [submodule "external-modules/MultiArchUefiPkg"]
 	path = external-modules/MultiArchUefiPkg
 	url = https://github.com/sophgo/MultiArchUefiPkg.git
